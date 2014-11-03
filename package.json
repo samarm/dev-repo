@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "project dependent package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samarm/dev-repo.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "Samar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarm/dev-repo/issues"
+  },
+  "homepage": "https://github.com/samarm/dev-repo"
+}
